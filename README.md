@@ -38,7 +38,7 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 **Criteria:**
 - The map should have multiple layers on it and/or present an output of (simple) data analysis (something beyond plotting raw data on a map).
 - Consider [good cartographic practices](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/)
-- The map should demonstrate skills learned during lesson 5: interactive maps and throughout this course. You can also take advantage of the [Folium example gallery](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/) for further ideas.
+- The map should demonstrate skills learned during lesson 5: interactive maps and throughout this course.
 - Think about including additional interactive elements, such as popup text in the map.
 
 **Output:**
