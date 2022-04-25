@@ -22,3 +22,4 @@ Edit the text below and add links to the maps that you have created:
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
 
+https://aggelikib.github.io
